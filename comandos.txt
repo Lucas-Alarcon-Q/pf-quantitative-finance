@@ -21,7 +21,7 @@ git status
 git "nombre archivo" | ej: git add main.py
 
 # Confirmar cambios
-git add "nombre archivo" | ej de comentario: "backup"
+git commit -m "backup"
 
 # Cargar cambios al ecosistema
 git push origin main
